@@ -17,6 +17,3 @@ simple wall hangings etc. This, of course, is quite agreeable and admirable. But
 and sport?"
 
     print(madlib)
-
-if __name__ == '__main__':
-    madlib()
